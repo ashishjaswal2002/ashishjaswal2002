@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**ashishjaswal2002/ashishjaswal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# Hi THERE 🐑
 # 💫 About Me:
 - 🔭 I’m currently working on Web development<br>- 🌱 I’m currently learning React.JS<br>- 💬 Ask me about ...<br>- 📫 How to reach me: <br>  Twitter:AshWizard1<br>Website:Loading....<br>- 😄 Pronouns: Tublu<br>- ⚡ Fun fact: ...I love to collaborate with other developers
 
@@ -27,4 +21,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishjaswal2002&icon=5&color=1)](https://visitcount.itsvg.in)
-
