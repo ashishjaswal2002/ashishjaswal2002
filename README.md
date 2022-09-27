@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ashishjaswal2002&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 
-<iframe src="https://giphy.com/embed/ule4vhcY1xEKQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ule4vhcY1xEKQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishjaswal2002&icon=5&color=1)](https://visitcount.itsvg.in)
