@@ -1,6 +1,6 @@
 # Hi There 🐑
 # 💫 About Me:
-- 🔭 I’m currently working on Web development<br><br>- 🌱 I’m currently learning React.JS<br>-<br>- 📫 How to reach me: <br> <br> -🦅:AshWizard1<br>-🖇:Working on it<br><br>- 😄 Pronouns: Tublu<br>- ⚡ Fun fact: ...I love to collaborate with developers
+- 🔭 I’m currently working on Web development<br><br>- 🌱 I’m currently learning React.JS<br>-<br>- 📫 How to reach me: <br>-🦅:AshWizard1<br>-🖇:Working on it<br>- 😄 Pronouns: Tublu<br>- ⚡ Fun fact: ...I love to collaborate with developers
 
 
 ## 🌐 Socials:
