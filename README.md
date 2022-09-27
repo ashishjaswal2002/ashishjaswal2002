@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ashishjaswal2002&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftyping-cats&psig=AOvVaw3h7nCpyHwwMnICkiiF3tct&ust=1664398656193000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiV6afutfoCFQAAAAAdAAAAABAD" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishjaswal2002&icon=5&color=1)](https://visitcount.itsvg.in)
