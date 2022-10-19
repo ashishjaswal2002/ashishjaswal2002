@@ -1,4 +1,4 @@
-# ![GitHub Contributors Image](https://contrib.rocks/image?repo=ashishjaswal2002/Sorting-ALGO-s)Hi There 🐑
+🙋#Hi There 🐑
 # 💫 About Me:
 - 🔭 I’m currently working on Web development<br><br>- 🌱 I’m currently learning React.JS <br>- 📫 How to reach me: <br>-🦅:AshWizard1<br>-🖇:Working on it<br>- 😄 Pronouns: Tublu<br>- ⚡ Fun fact: ...I love to collaborate with developers
 
