@@ -18,7 +18,7 @@ I'm Ashish Jaswal, an Indian front-end developer currently now. It is enjoyable 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashishjaswal2002&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-[![@ashishjaswal2002's Holopin board](https://holopin.me/ashishjaswal2002)]
+[![@ashishjaswal2002's Holopin board]]
 
 
 
