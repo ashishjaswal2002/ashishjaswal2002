@@ -1,11 +1,24 @@
-# 🙋🏻‍♂️Hi There 🐑
-<span align="center">![tenor](https://user-images.githubusercontent.com/94538837/192638787-46dfed95-a22d-4b2a-a700-d8423be2c233.gif)</span>
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height = "50px" width="50px"></h1>
+
+
+<div align="center">
+  
+
+ ![tenor](https://user-images.githubusercontent.com/94538837/192638787-46dfed95-a22d-4b2a-a700-d8423be2c233.gif)
+  
+   
+  
+  </div>
+ 
 # 💫 About Me:
-I'm Ashish Jaswal, an Indian front-end developer currently now. It is enjoyable for me to learn what goes into programming. My passion is networking, joining new communities, and adding value to them ✨
+<!-- I'm Ashish Jaswal, an Indian front-end developer currently now. It is enjoyable for me to learn what goes into programming. My passion is networking, joining new communities, and adding value to them ✨ -->
+
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashish Jaswal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AshWizard1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AshishJaswal) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AshWizard1) 
 
 [![](https://visitcount.itsvg.in/api?id=ashishjaswal2002&icon=5&color=1)](https://visitcount.itsvg.in)
 
