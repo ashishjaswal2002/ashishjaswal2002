@@ -13,6 +13,8 @@
 # 💫 About Me:
 I'm Ashish Jaswal, an Indian front-end developer currently now. It is enjoyable for me to learn what goes into programming. My passion is networking, joining new communities,learning new technologies  and adding value to them ✨
 
+I'm currently learning React
+
 
 
 
