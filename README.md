@@ -24,7 +24,7 @@ I'm currently learning Next JS
 
 [![](https://visitcount.itsvg.in/api?id=ashishjaswal2002&icon=5&color=1)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: FIGMA,JAVASCRIPT,REACT,NEXTJS..
 
 
 <h3 align="center">My GitHub Stats 📊 </h3>
