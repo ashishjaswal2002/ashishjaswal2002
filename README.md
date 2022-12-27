@@ -23,9 +23,15 @@ I'm currently learning.....
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AshWizard1) 
 
 [![](https://visitcount.itsvg.in/api?id=ashishjaswal2002&icon=5&color=1)](https://visitcount.itsvg.in)
+
 Contact:jaswalashish131@gmail.com
 
-# 💻 Tech Stack
+# 💻 My Gears:
+   🖇 Macbook Air M1 2020.
+   🖇 Logitech K480 Bluetooth Keyboard.
+   🖇Cosmic Byte Themis Keyboard.
+   🖇Airpods 1st Gen.
+   🖇JBL 460BT.
 
 
 
