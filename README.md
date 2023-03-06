@@ -19,6 +19,10 @@
 
 ## Connect
 <p>Let's join forces and write some code that will make even the Matrix jealous!</p>
+<p>
+  <a href="https://twitter.com/Ashishjas2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="my twiiter link" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ashish-jaswal-288b1a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linkedin link" height="30" width="40" /></a>
+</p>
 
 
 - 
