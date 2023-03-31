@@ -10,10 +10,10 @@
 Web developer
 ## Technologies I Use
 
-🏹 TypeScript <br>
-🏹 Java<br>
-🏹 Tailwind CSS<br>
-🏹 Node.js<br>
+🏹 TypeScript <br><br>
+🏹 Java<br><br>
+🏹 Tailwind CSS<br><br>
+🏹 Node.js<br><br>
 🏹 React
 
 ## Connect
