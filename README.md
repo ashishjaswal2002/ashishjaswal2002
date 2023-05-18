@@ -5,6 +5,7 @@
   
 
  ![tenor](https://user-images.githubusercontent.com/94538837/192638787-46dfed95-a22d-4b2a-a700-d8423be2c233.gif)
+ 
   
    
 Web developer
@@ -15,6 +16,8 @@ Web developer
 🏹 Tailwind CSS<br><br>
 🏹 Node.js<br><br>
 🏹 React
+
+Currently Learning Python.Exploring Python and diving into AI.
 
 ## Connect
 <p>Send me Hi</p>
