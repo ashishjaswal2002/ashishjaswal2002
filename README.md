@@ -4,8 +4,7 @@
 
   
 
- ![tenor](https://user-images.githubusercontent.com/94538837/192638787-46dfed95-a22d-4b2a-a700-d8423be2c233.gif)
- 
+
   
    
 Web developer
