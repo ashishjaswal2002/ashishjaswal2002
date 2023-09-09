@@ -7,7 +7,7 @@
 
   
    
-Web developer
+Software Devloper
 ## Technologies I Use
 
 🏹 TypeScript <br><br>
