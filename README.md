@@ -17,6 +17,7 @@ Software Devloper
 🏹 React
 
 Currently Learning Python.Exploring Python and diving into AI.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishjaswal2002)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect
 <p>Send me Hi</p>
