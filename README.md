@@ -14,8 +14,8 @@ Software Devloper
 🏹 Java<br><br>
 🏹 Tailwind CSS<br><br>
 🏹 Node.js<br><br>
-🏹 React
-🏹 Astro
+🏹 React<br><br>
+🏹 Astro<br><br>
 🏹 CPP
 
 Currently Learning Python.Exploring Python and diving into AI.
