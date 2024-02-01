@@ -19,6 +19,7 @@ Software Devloper
 🏹 CPP
 
 Currently Learning Python.Exploring Python and diving into AI.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjaswal2002&theme=tokyonight)
 
 
 ## Connect
