@@ -8,6 +8,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/Ashishjas2002)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-jaswal-288b1a20a/) 
 
 
+### My Coding Profiles
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/jaswalashish131)
+[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/jaswalashish13)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/ashish2002/)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/jaswalashish131)
+
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -55,10 +61,6 @@
 [![Ashish Jaswal GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashishjaswal2002&theme=dark&count_private=true&show_icons=true)](https://github.com/ashishjaswal2002/github-readme-stats#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashishjaswal2002&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjaswal2002&count_private=true&show_icons=true&theme=dark)
-
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashishjaswal2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
