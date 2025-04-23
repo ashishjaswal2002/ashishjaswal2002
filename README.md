@@ -1,4 +1,4 @@
-<h2>Hello there! My name is Ashish Jaswal.</h2>
+<h2>Work Hard FCUK FEAR.</h2>
 
 <p align="start">
   <img src="https://profile-counter.glitch.me/{ashishjaswal2002}/count.svg" alt="Visitor Count" width="180" height="24" />
